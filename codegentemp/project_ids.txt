@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|fbf8fc63-fbd1-4488-b328-eb5cde3a5ece
+C:\Users\Bruce\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|5603e244-50cf-4fa2-b55c-1cd05811d72b
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|b12904ed-8881-4201-ba35-5b01f59af7c8
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|7a3b1982-f46b-4100-84ec-ceb6d757fe96
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|d222a66a-3841-47a5-b230-269437eb9d89
+C:\Users\Bruce\Documents\PSoC Creator\WorkspaceOxymetrie\ProjetOxymetre.cydsn\ProjetOxymetre.cyprj|af2f5ea5-152c-4b84-8083-e7a2b04e281d

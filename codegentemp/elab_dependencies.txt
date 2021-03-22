@@ -1,0 +1,2 @@
+C:\Users\Bruce\Documents\PSoC Creator\WorkspaceOxymetrie\ProjetOxymetre.cydsn\TopDesign\TopDesign.cysch
+C:\Users\Bruce\Documents\PSoC Creator\WorkspaceOxymetrie\ProjetOxymetre.cydsn\ProjetOxymetre.cydwr
